@@ -9,5 +9,9 @@ using namespace std;
 
 int main() {
     cout << "hello hell";
+<<<<<<< HEAD
     beep(100);
+=======
+    // HOLA ESTOY HACIENDO UNA PRUEBA BIEN LOCA Y NO QUIERO ALTERAR LOS ARCHIVOS PRINCIPALES
+>>>>>>> testMain
 }
